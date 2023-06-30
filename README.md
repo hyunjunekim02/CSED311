@@ -22,4 +22,4 @@ Please be advised that the code provided might contain minor errors. Always cros
 
 ## Contributors
 
-These lab assignments bulit as a team. Special thanks to my teammate Taehyeok Ha
+These lab assignments was bulit as a team. Special thanks to my teammate Taehyeok Ha
