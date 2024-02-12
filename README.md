@@ -1,6 +1,6 @@
 # CSED311 Computer Architecture
 
-Welcome to the repository for the Computer Architecture Lab Assignments for the Spring 2023 session of CSED311 @ POSTECH! This course dives into the depth of computer architecture, covering key concepts such as CPU, Cache, and Memory.
+This repo is associated with Computer Architecture Lab Assignments for the Spring 2023 session of CSED311 @ POSTECH. This course dives into the depth of computer architecture, covering key concepts such as CPU, Cache, and Memory.
 
 ## Overview
 
